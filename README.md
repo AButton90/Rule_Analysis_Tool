@@ -12,7 +12,7 @@ HS codes, also known as Harmonized system codes, are a standardized system of co
 
 Accurate classification of goods is essential for ensuring compliance with customs regulations. Incorrectly classifying goods can result in fines, delays, and other penalties. By researching and accurately determining the HS code for each item they are handling, TecEx can ensure that their clients are in compliance with customs regulations and avoid any potential problems at the border. Additionally, accurate HS code determination is also important for ensuring that clients are paying the correct tariffs and taxes.
 
-As part of my role in TecEx's Cloud team, I developed this compliance solutions.
+As part of my role in TecEx's Cloud team, I developed this compliance solution.
 
 ## Application Overview
 
